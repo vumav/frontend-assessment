@@ -2,7 +2,9 @@ Introduction
 ---
 Thanks for the review. Exercises 1 and 2 are in the 'vutran' folder. I have used Vue 3 for them.
 The link test:  https://c90e6c4a.vutran-a2y.pages.dev/
-Demo: [![Image from Gyazo](https://t.gyazo.com/teams/mindarc/871e3ecaf0ddabb56a811f2f026d52a6.gif)](https://mindarc.gyazo.com/871e3ecaf0ddabb56a811f2f026d52a6)
+
+Demo:
+[![Image from Gyazo](https://t.gyazo.com/teams/mindarc/871e3ecaf0ddabb56a811f2f026d52a6.gif)](https://mindarc.gyazo.com/871e3ecaf0ddabb56a811f2f026d52a6)
 
 Exercise 1
 ---
