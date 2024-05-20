@@ -2,6 +2,7 @@ Introduction
 ---
 Thanks for the review. Exercises 1 and 2 are in the 'vutran' folder. I have used Vue 3 for them.
 https://mindarc.gyazo.com/83c2861be0ca5d60d202fd491547601e
+
 Exercise 1
 ---
 The url: /exercise-1
