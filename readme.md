@@ -1,15 +1,15 @@
 Introduction
 ---
 Thanks for the review. Exercises 1 and 2 are in the 'vutran' folder. I have used Vue 3 for them.
-https://mindarc.gyazo.com/83c2861be0ca5d60d202fd491547601e
+The link test:  https://c90e6c4a.vutran-a2y.pages.dev/
 
 Exercise 1
 ---
-The url: /exercise-1
+The url: https://c90e6c4a.vutran-a2y.pages.dev/exercise-1
 
 Exercise 2
 ---
-The url: /exercise-2
+The url: https://c90e6c4a.vutran-a2y.pages.dev/exercise-2
 
 ###### Bonus points
 
